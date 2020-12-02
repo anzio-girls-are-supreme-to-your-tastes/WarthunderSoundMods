@@ -13,3 +13,5 @@ vgaudiocli.exe -b --out-format wav -i . -o .
 echo "Continue to purge HCA archives"
 pause
 del /f *.hca
+cd ..
+for /f "delims=" %i in ('dir /s /b /ad ^| sort /r') do rd "%i" 2 >nul
