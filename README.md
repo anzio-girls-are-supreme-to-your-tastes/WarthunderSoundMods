@@ -3,6 +3,7 @@
 2. __Littorio Naval voice__
 
 # Windows Scrpits to make life easier
+these scripts are intended to be called from the working directory and will output into either the CONVERT or OUTPUT directory then clean any intermediate files.
 1. __azur_raw_bgm_covert__
 Convert azur lane's game bgm data to wav.
 Dependencies: VGMToolbox & VGAudioCli
