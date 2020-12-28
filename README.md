@@ -1,6 +1,11 @@
 # WarthunderSoundMods
 1. __Hood And Nelson Naval voice__
 2. __Littorio Naval voice__
+3. __Prinz Eugen And Admiral Hipper Naval Voice__
+4. __Azur Lane Total BGM Sound Mod__
+[Hosted on WT Live](https://live.warthunder.com/post/950990/en/) Made using Non-collaboration event BGMs, Crosswave OST and Game BGM. 
+Air and Tank battles are set to -18 decibels while Naval battles are set to -10 decibels.
+Made with all intentions to comply with [Yostar's rules](https://www.azurlane.jp/news-item.html?i=1010) of "Doujin" works and Fan creations.
 
 # Windows Scrpits to make life easier
 these scripts are intended to be called from the working directory and will output into either the CONVERT or OUTPUT directory then clean any intermediate files.
